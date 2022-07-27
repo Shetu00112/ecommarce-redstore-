@@ -128,6 +128,9 @@ nav ul li a{
     bottom: -50%;
     transform: translateX(-50%);
 }
+.col2 h4{
+    margin-top: 10px;
+}
 .rating{
     color: #ff523b;
 }
